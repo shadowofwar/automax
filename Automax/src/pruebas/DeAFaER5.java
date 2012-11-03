@@ -5,7 +5,7 @@ import java.util.Vector;
 public class DeAFaER5 {
 
 	/**
-	 * @param args
+	 * @param argsytyutu
 	 */
 	public static void main(String[] args) {
 		ExpresionRegular t1 = new ExpresionRegular("A");
